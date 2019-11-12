@@ -6,7 +6,5 @@ public class Get_Request {
 		 System.out.println("constructor");
 	 }
 }
-	 public void get_request() {
-		 System.out.println("get request");
-	 }
-}
+	
+
